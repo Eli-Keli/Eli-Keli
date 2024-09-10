@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eli-Keli
 - 👀 I’m interested in Software development, Web development, Frontend, Ui/UX, Building online
-- 🌱 I’m currently learning React.js, C programming
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: Instagram @_eli_keli , WhatsApp +254 742560540, LinkedIn Eli-Keli
 - 😄 Pronouns: He/Him/His
