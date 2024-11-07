@@ -27,9 +27,10 @@ Hi, I'm Eli Keli! I'm passionate about coding, learning new technologies, and co
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-## 📈 GitHub Stats
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Keli&layout=compact&theme=radical)
 ![Eli Keli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Keli&show_icons=true&theme=radical)
+
+***Note:*** *The GitHub stats displayed using the github-readme-stats service are updated periodically, but not in real-time.* 
 
 ## 📫 Contact Me
 
