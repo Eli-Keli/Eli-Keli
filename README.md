@@ -28,6 +28,8 @@ I'm **Eli Keli**, a **passionate software engineer**, frontend developer, and pr
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Studio](https://img.shields.io/badge/-Firebase%20Studio-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ## 📊 GitHub Stats & Contributions
