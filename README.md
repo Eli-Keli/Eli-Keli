@@ -93,24 +93,6 @@ I enjoy turning ideas into usable systems — from product thinking and UI/UX co
 
 *These are all the tech stack and tools i have been compounding in my 2-year period as a developer*
 
-### Core Focus
-- React, React Native with Expo, TypeScript
-- Node.js, Python (Django) + Flask
-- Firebase with Cloud Firestore and Cloud Storage
-
-### Cloud & DevOps
-- Google Cloud Platform (Compute, Storage, IAM, Firebase)
-- Docker
-
-### AI / Data
-- Python, Jupyter Notebooks
-- LLMs & AI Agents (prototyping & experimentation)
-
-### Foundations
-- JavaScript, HTML, CSS, SCSS, Tailwind
-- Java, C, C++ (academic & systems foundation)
-
-
 ---
 
 ## GITHUB STATS & CONTRIBUTIONS
