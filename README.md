@@ -12,9 +12,9 @@
 
 ## ABOUT ME
 
-I’m **Eli Keli**, a software engineer focused on building **real-world products** at the intersection of **mobile development, AI, and cloud infrastructure**.
+I’m **Eli Keli**, a software engineer focused on building **real-world products** at the intersection of **Web/Mobile development, AI, and cloud infrastructure**.
 
-Over the past 2+ years, I’ve consistently shipped projects from mobile apps and full-stack systems to AI-powered prototypes with a strong interest in **accessibility, education, and impact-driven solutions**.
+Over the past 3+ years, I’ve consistently shipped projects from mobile apps and full-stack systems to AI-powered prototypes with a strong interest in **accessibility, education, and impact-driven solutions**.
 
 I care deeply about:
 - writing clean, maintainable code  
