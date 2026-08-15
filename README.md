@@ -1,12 +1,11 @@
 # ELI KELI MUTHOKA
 
+![GitHub Banner](https://readme-typing-svg.herokuapp.com?color=%23F7A41D&center=false&vCenter=true&lines=Full-Stack+Software+Engineer)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EliKeli-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eli-keli/)
 [![Email](https://img.shields.io/badge/Email-muthokaelikeli%40gmail.com-red?style=flat-square&logo=gmail)](mailto:muthokaelikeli@gmail.com)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Eli-Keli&style=flat-square)
 
-![GitHub Banner](https://readme-typing-svg.herokuapp.com?color=%23F7A41D&center=true&vCenter=true&lines=AI+Software+Engineer+%7C+Developer)
 
 ---
 
@@ -37,7 +36,7 @@ I enjoy turning ideas into usable systems — from product thinking and UI/UX co
 
 → AI Agents & Workflow Automation
 
-→ Enterprise Software EngineerinG
+→ Enterprise Software Engineering
 
 → Product Engineering & System Design
 
